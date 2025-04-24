@@ -24,7 +24,7 @@ Hello there! I'm **Saurav Bedse**, an aspiring Data Scientist and AI Engineer fr
 With hands-on experience in LLMs, Computer Vision, and Data Analysis, I've developed real-world solutions during my internships at Zummit Infolabs and Edunet Foundation. I thrive on creating intelligent systems that solve meaningful problems.
 
 - 🎓 **Education**: B.E. in AI & Data Science (CGPA: 8.8)
-- 🚀 **Recent Projects**: ColdCraft AI, Emergency Response Detection System, AML Detection
+- 🚀 **Projects**: ColdCraft AI, Emergency Response Detection System, AML Detection
 - 🌱 **Currently exploring**: Advanced RAG systems and Large Language Model fine-tuning
 - 💼 **Experience**: Junior Data Scientist Intern at Zummit Infolabs, AI Intern at Edunet Foundation
 - 💬 **Ask me about**: Machine Learning, NLP, Computer Vision, LLMs
@@ -72,51 +72,10 @@ saurav = AIEngineer()
 - Acquired expertise in advanced data analysis and technology applications
 - Optimized business strategies and decision-making through practical skills
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sauravbedse223&repo=coldcraft-ai&theme=radical&hide_border=true&show_icons=true&title_color=ff64da&icon_color=34ebe5" alt="ColdCraft AI" />
-  </a>
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sauravbedse223&repo=emergency-response-system&theme=radical&hide_border=true&show_icons=true&title_color=ff64da&icon_color=34ebe5" alt="Emergency Response System" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sauravbedse223&repo=aml-detection&theme=radical&hide_border=true&show_icons=true&title_color=ff64da&icon_color=34ebe5" alt="AML Detection" />
-  </a>
-</div>
-
-### 💻 ColdCraft AI – Intelligent Cold Email Generator
-- Developed an AI-powered web application that generates professional cold emails using **LLMs like Gemini**
-- Built with **FastAPI** for backend processing with dynamic prompt engineering
-- Integrated PDF parsing and Gmail integration for a seamless user experience
-
-### 🔍 AI-Powered Detection System for Emergency Response
-- Implemented object detection using **YOLOv8** for real-time identification in video streams
-- Achieved high accuracy with **mAP@50 up to 98.2%** for specific object classes
-- Optimized for speed and precision using **NVIDIA Tesla T4 GPU**
-
-### 💰 Anti-Money Laundering Detection System
-- Developed AML monitoring system using **Gradient Boosting** with **92% accuracy**
-- Achieved **92% recall** on fraudulent transactions, ensuring high sensitivity
-- Integrated automated email alerts and downloadable reports for flagged transactions
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sauravbedse223&show_icons=true&theme=radical&hide_border=true&custom_title=Saurav's%20GitHub%20Stats" alt="Saurav's GitHub Stats" height="200" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravbedse223&theme=radical&hide_border=true" alt="GitHub Streak" height="200" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravbedse223&show_icons=true&theme=radical&hide_border=true&custom_title=Saurav's%20GitHub%20Stats" alt="Saurav's GitHub Stats" height="200" />
 </div>
 
 <div align="center">
