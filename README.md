@@ -31,7 +31,7 @@ With hands-on experience in LLMs, Computer Vision, and Data Analysis, I've devel
 - 📫 **Reach me at**: bedsesaurav223@gmail.com
 - ⚡ **Fun fact**: I can optimize algorithms in my sleep and wake up with solutions!
 
-## 🔧 Technical Arsenal
+## 💻 Code Snippet: Who Am I?
 
 ```python
 class AIEngineer:
@@ -79,8 +79,48 @@ saurav = AIEngineer()
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravbedse223&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sauravbedse223&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sauravbedse223&theme=radical" width="100%" height="auto" alt="GitHub Profile Summary" />
 </div>
+
+## 🚀 Current Projects
+
+<div align="center">
+  <a href="https://github.com/sauravbedse223/ColdCraft-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravbedse223&repo=ColdCraft-AI&theme=radical" alt="ColdCraft AI Repository" />
+  </a>
+  <a href="https://github.com/sauravbedse223/Emergency-Response-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravbedse223&repo=Emergency-Response-System&theme=radical" alt="Emergency Response System Repository" />
+  </a>
+</div>
+
+## 🔄 My Development Workflow
+
+```mermaid
+graph TD
+    A[Ideation] --> B[Research]
+    B --> C[Design]
+    C --> D[Development]
+    D --> E[Testing]
+    E --> F[Deployment]
+    F --> G[Maintenance]
+    G --> |Continuous Improvement| B
+    
+    style A fill:#ff9999,stroke:#ff0000,color:black
+    style B fill:#99ccff,stroke:#0066cc,color:black
+    style C fill:#99ff99,stroke:#00cc66,color:black
+    style D fill:#ffcc99,stroke:#ff9900,color:black
+    style E fill:#cc99ff,stroke:#9900cc,color:black
+    style F fill:#ffff99,stroke:#cccc00,color:black
+    style G fill:#ff99cc,stroke:#cc0066,color:black
+```
 
 ## 🎯 Skills & Tools
 
@@ -96,16 +136,22 @@ saurav = AIEngineer()
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
   <img src="https://img.shields.io/badge/LangChain-007ACC?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   
   <h3>Web Development</h3>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   
   <h3>DevOps & Tools</h3>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </div>
 
 ## 🎓 Certifications
@@ -115,7 +161,30 @@ saurav = AIEngineer()
   <img src="https://img.shields.io/badge/Machine_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Machine Learning Specialization" />
   <img src="https://img.shields.io/badge/Google_Cloud_Data_Analytics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Data Analytics" />
   <img src="https://img.shields.io/badge/SQL_for_Data_Science-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL for Data Science" />
+  <img src="https://img.shields.io/badge/Deep_Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
 </div>
+
+## 📈 Skill Proficiency
+
+```
+Python        ████████████████████░░  90%
+Machine Learning ██████████████████░░  85%
+Deep Learning  ████████████████░░░░░  75%
+Data Analysis  █████████████████░░░░  80%
+LLMs & NLP     ████████████████░░░░░  75%
+Computer Vision ███████████████░░░░░  70%
+SQL & Database  ███████████████░░░░░  70%
+Web Development ██████████░░░░░░░░░░  50%
+```
+
+## 🌐 Languages
+
+```
+English       ████████████████████░░  95%
+Hindi         ████████████████████░░  95%
+Marathi       ████████████████████░░  90%
+```
 
 ## 📫 Connect With Me
 
@@ -138,6 +207,19 @@ saurav = AIEngineer()
   <a href="mailto:bedsesaurav223@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://twitter.com/SauravBedse">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+## 🎮 When I'm Not Coding
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Chess-000000?style=for-the-badge&logo=lichess&logoColor=white" alt="Chess" />
+  <img src="https://img.shields.io/badge/Reading-8B4513?style=for-the-badge&logo=goodreads&logoColor=white" alt="Reading" />
+  <img src="https://img.shields.io/badge/Coffee☕-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Coffee" />
+  <img src="https://img.shields.io/badge/Hiking-4CAF50?style=for-the-badge&logo=alltrails&logoColor=white" alt="Hiking" />
+  <img src="https://img.shields.io/badge/Stargazing-000033?style=for-the-badge&logo=nasa&logoColor=white" alt="Stargazing" />
 </div>
 
 <div align="center">
@@ -147,6 +229,7 @@ saurav = AIEngineer()
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" />
 </div>
 
 <!-- Footer Banner -->
