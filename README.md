@@ -59,18 +59,6 @@ class AIEngineer:
 saurav = AIEngineer()
 ```
 
-## 🏆 Professional Experience
-
-### Junior Data Scientist Intern | Zummit Infolabs
-*June 2024 - October 2024 | Remote*
-- Developed Zummit Certification Professional (ZCP) portal for automated certificate generation
-- Integrated LLMs for dynamic question generation in certification tests
-- Collaborated on machine learning and Python-based solutions
-
-### Artificial Intelligence Intern | Edunet Foundation
-*August 2023 - October 2023 | Remote*
-- Acquired expertise in advanced data analysis and technology applications
-- Optimized business strategies and decision-making through practical skills
 
 ## 📊 GitHub Analytics
 
