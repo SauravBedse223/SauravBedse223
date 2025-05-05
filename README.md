@@ -78,37 +78,6 @@ saurav = AIEngineer()
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sauravbedse223&theme=radical" width="100%" height="auto" alt="GitHub Profile Summary" />
 </div>
 
-## 🚀 Current Projects
-
-<div align="center">
-  <a href="https://github.com/sauravbedse223/ColdCraft-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravbedse223&repo=ColdCraft-AI&theme=radical" alt="ColdCraft AI Repository" />
-  </a>
-  <a href="https://github.com/sauravbedse223/Emergency-Response-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravbedse223&repo=Emergency-Response-System&theme=radical" alt="Emergency Response System Repository" />
-  </a>
-</div>
-
-## 🔄 My Development Workflow
-
-```mermaid
-graph TD
-    A[Ideation] --> B[Research]
-    B --> C[Design]
-    C --> D[Development]
-    D --> E[Testing]
-    E --> F[Deployment]
-    F --> G[Maintenance]
-    G --> |Continuous Improvement| B
-    
-    style A fill:#ff9999,stroke:#ff0000,color:black
-    style B fill:#99ccff,stroke:#0066cc,color:black
-    style C fill:#99ff99,stroke:#00cc66,color:black
-    style D fill:#ffcc99,stroke:#ff9900,color:black
-    style E fill:#cc99ff,stroke:#9900cc,color:black
-    style F fill:#ffff99,stroke:#cccc00,color:black
-    style G fill:#ff99cc,stroke:#cc0066,color:black
-```
 
 ## 🎯 Skills & Tools
 
@@ -142,16 +111,7 @@ graph TD
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </div>
 
-## 🎓 Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Google_Data_Analysis-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analysis" />
-  <img src="https://img.shields.io/badge/Machine_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Machine Learning Specialization" />
-  <img src="https://img.shields.io/badge/Google_Cloud_Data_Analytics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Data Analytics" />
-  <img src="https://img.shields.io/badge/SQL_for_Data_Science-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL for Data Science" />
-  <img src="https://img.shields.io/badge/Deep_Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
-</div>
 
 ## 📈 Skill Proficiency
 
